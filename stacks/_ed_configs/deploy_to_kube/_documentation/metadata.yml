@@ -1,0 +1,11 @@
+desc: Deploy to kubernetes
+release: 1.0.1
+categories: 
+   - kubernetes
+   - docker
+tags:
+   - kubernetes
+   - docker
+   - ed
+   - featured
+   - ed_featured
