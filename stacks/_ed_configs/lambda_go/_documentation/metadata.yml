@@ -1,4 +1,4 @@
-desc: Deployiing Go application with lambda on AWS
+desc: Deploying Go application with lambda on AWS
 release: 1.0.1
 categories: 
    - serverless

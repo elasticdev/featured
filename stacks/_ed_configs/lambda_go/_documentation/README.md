@@ -1,2 +1,2 @@
-# Deployiing Go application with lambda on AWS
+# Deploying Go application with lambda on AWS
 

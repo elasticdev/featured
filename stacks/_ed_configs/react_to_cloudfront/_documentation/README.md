@@ -1,2 +1,2 @@
-# Deployiing Go application with lambda on AWS
+# Deploying React to cloudfront
 
